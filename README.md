@@ -1,5 +1,5 @@
-# Privacy-Preserving Trajectory Matching for Unmanned Aerial Vehicles Proof-of-Concept
-Proof-of-concept of PPTM running between a server and a client.
+# ePPTM Enhanced Privacy-Preserving Trajectory Matching for Autonomous Vehicles Proof-of-Concept
+Proof-of-concept of ePPTM running between a server and a client.
 
 ## Bootstrapping / setting up for development
 - Install Python 3.8 or higher
